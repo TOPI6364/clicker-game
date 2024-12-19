@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Clicker game (Unity).sln"
+    "dotnet.defaultSolution": "clicker-game.sln"
 }
